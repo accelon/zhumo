@@ -1,0 +1,8 @@
+htll {white-space:pre-wrap}
+p {margin:0}
+pb:after {color:blue;font-size:70%;content:"原書第" attr(n) "頁"}
+
+p::before {content:'　　'}
+.author , .copyright, .edition {color:blue}
+.quote {font-weight: bold;font-size:120%;font-family: 楷体, 標楷體;}
+h7,h8,h9,h10,h11,h12,h13,h14,h15,h16,h17,h18,h19 {font-weight:bold;color:brown}
