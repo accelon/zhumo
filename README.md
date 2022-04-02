@@ -25,4 +25,4 @@
     法相繁(臣貴)
     
 ### 梵文未校正
-   「非梵行」(Abrahmacanya) 應為 Abrahamacariya
+   「非梵行」(Abrahmacanya) 應為 abrahmacariya
